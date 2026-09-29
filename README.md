@@ -8,7 +8,7 @@ This project demonstrates how Microsoft Excel can be used for business performan
 
 ## 📊 Dashboard Preview
 
-![Excel Business Performance Dashboard](screenshots/business-dashboard.png)
+![Excel Business Performance Dashboard](Screenshots/business-dashboard.png)
 
 ---
 
