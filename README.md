@@ -77,6 +77,10 @@ This project is available in two versions:
 **Persian Version | نسخه فارسی**  
 `HMexcelpro_Business_Dashboard_FA.xlsx`
 
+A bilingual English-Persian user guide is also included:
+
+`HMexcelpro_Business_Dashboard_Bilingual_Guide.pdf`
+
 The English version is intended for international portfolio use, while the Persian version provides a localized interface for Persian-speaking users.
 
 ---
